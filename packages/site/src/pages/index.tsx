@@ -15,8 +15,6 @@ import {
   SendHelloButton,
   Card,
 } from '../components';
-import RainInsuranceAbi from '../abi/RainInsurance.json';
-import { defaultSnapOrigin } from '../config';
 
 const Container = styled.div`
   display: flex;
